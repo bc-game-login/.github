@@ -1,5 +1,10 @@
 # BC.Game | Bc Game Login & Register
 
+## Quick Links
+### [BC Game Login](https://bcgame.one/login)
+### [BC Game Register](https://bcgame.one/register)
+### [BC Game App Download](https://bcgame.one/download)
+
 ## What is BC.Game?
 [BC.Game](https://bcgame.one/) is a popular online crypto casino and sports betting platform that offers a wide range of games, including slots, crash, blackjack, and more. It supports various cryptocurrencies for deposits and withdrawals, providing a seamless gaming experience for users worldwide.
 
