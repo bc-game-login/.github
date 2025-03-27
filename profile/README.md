@@ -1,12 +1,12 @@
 # BC.Game | Bc Game Login & Register
 
 ## Quick Links
-### [BC Game Login](https://bcgame.one/login)
-### [BC Game Register](https://bcgame.one/register)
-### [BC Game App Download](https://bcgame.one/download)
+### [BC Game Login](https://gamelogin.in/bc-game/)
+### [BC Game Register](https://gamelogin.in/bc-game/)
+### [BC Game App Download](https://gamelogin.in/bc-game/)
 
 ## What is BC.Game?
-[BC.Game](https://bcgame.one/) is a popular online crypto casino and sports betting platform that offers a wide range of games, including slots, crash, blackjack, and more. It supports various cryptocurrencies for deposits and withdrawals, providing a seamless gaming experience for users worldwide.
+[BC.Game](https://gamelogin.in/bc-game/) is a popular online crypto casino and sports betting platform that offers a wide range of games, including slots, crash, blackjack, and more. It supports various cryptocurrencies for deposits and withdrawals, providing a seamless gaming experience for users worldwide.
 
 ## Features of BC.Game
 - **Wide Variety of Games** – Over 5,800 games, including slots, table games, and sports betting.
@@ -18,7 +18,7 @@
 - **Live Sports Betting** – Bet on real-time sports and eSports events.
 
 ## How to Login to BC.Game
-1. Open the [BC.Game Website](https://bcgame.one/).
+1. Open the [BC.Game Website](https://gamelogin.in/bc-game/).
 2. Click on the **"Login"** button at the top-right corner.
 3. Enter your email and password.
 4. If two-factor authentication (2FA) is enabled, enter the verification code from Google Authenticator.
@@ -26,7 +26,7 @@
 
 ## How to Download BC.Game App (APK)
 ### For Android:
-1. Open the [BC.Game official website](https://bcgame.one/).
+1. Open the [BC.Game official website](https://gamelogin.in/bc-game/).
 2. Scroll down to find the **BC.Game APK download** link.
 3. Click the link to download the APK file.
 4. Enable **"Install from Unknown Sources"** in your device settings.
@@ -36,7 +36,7 @@
 BC.Game does not have a dedicated iOS app, but you can access the platform through a mobile browser with full functionality.
 
 ## How to Create an Account on BC.Game
-1. Visit the [BC.Game Registration Page](https://bcgame.one/).
+1. Visit the [BC.Game Registration Page](https://gamelogin.in/bc-game/).
 2. Click **"Sign Up"** and enter your email and password.
 3. Choose a username and complete the CAPTCHA verification.
 4. Confirm your email by clicking on the verification link sent to your inbox.
